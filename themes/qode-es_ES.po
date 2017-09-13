@@ -1,0 +1,2039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bridge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-05 17:11+0000\n"
+"PO-Revision-Date: 2017-09-08 22:02+0000\n"
+"Last-Translator: tempuser1 <tempuser1@tempuser1.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the template
+msgid "Blog Masonry Full Width - Date in Image"
+msgstr "Ancho total blog Masonry- Fecha en imagen "
+
+#. Name of the template
+msgid "Blog Large Image"
+msgstr "Blog imagen grande "
+
+#. Name of the template
+msgid "Blog Masonry"
+msgstr "Blog Masonry "
+
+#: ../bridge/comments.php:45
+msgid "Submit"
+msgstr "Enviar "
+
+#. Name of the template
+msgid "Blog Vertical Loop"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Masonry Gallery"
+msgstr "Galería blog Masonry "
+
+#. Name of the template
+msgid "Blog Small Image"
+msgstr "Blog imagen pequeña "
+
+#: ../bridge/functions.php:2251
+msgid ""
+"Note that writing permissions aren't set for folders containing css and js "
+"files on your server.\n"
+"\t\t\t\t\tWe recommend setting writing permissions in order to optimize your "
+"site performance.\n"
+"\t\t\t\t\tFor further instructions, please refer to our <a target=\"_blank\" "
+"href=\"http://demo.qodeinteractive.com/bridge-new-help/#!/getting_started\">"
+"documentation</a>."
+msgstr ""
+"Tenga en cuenta que los permisos de escritura no están establecidos para las "
+"carpetas que contienen archivos css y js en su servidor.\n"
+"Recomendamos establecer permisos de escritura para optimizar el rendimiento "
+"del sitio.\n"
+"Para obtener más instrucciones, consulte nuestra <a target=\"_blank\" "
+"href=\"http://demo.qodeinteractive.com/bridge-new-help/#!/getting_started\"> "
+"documentación </a>."
+
+#. Name of the template
+msgid "Blog Masonry Full Width"
+msgstr "Ancho total blog Masonry "
+
+#. Name of the template
+msgid "Blog Masonry - Date in Image"
+msgstr "Blog Masonry- Fecha en imagen "
+
+#. Name of the template
+msgid "Blog Large Image Whole Post"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Large Image With Dividers"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:22
+msgid "Parallax effect"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:44
+msgid "Breakpoint Coefficients 1 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:69
+msgid "screen width > 1600px for 'set1' and 'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:74
+msgid "Breakpoint Coefficients 2 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:99
+msgid ""
+"screen width = [1200px,1600px] for 'set1', screen width = [1300px,1600px] "
+"for 'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:104
+msgid "Breakpoint Coefficients 3 (values: 0-1, default value: 0.8)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:129
+msgid ""
+"screen width = [900px,1200px] for 'set1', screen width = [1000px,1300px] for "
+"'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:134
+msgid "Breakpoint Coefficients 4 (values: 0-1, default value: 0.7)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:159
+msgid ""
+"screen width = [650px,900px] for 'set1', screen width = [768px,1000px] for "
+"'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:164
+msgid "Breakpoint Coefficients 5 (values: 0-1, default value: 0.6)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:189
+msgid ""
+"screen width = [500px,650px] for 'set1', screen width = [567px,768px] for "
+"'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:194
+msgid "Breakpoint Coefficients 6 (values: 0-1, default value: 0.5)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:219
+msgid ""
+"screen width = [320px,500px] for 'set1', screen width = [320px,567px] for "
+"'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:224
+msgid "Breakpoint Coefficients 7 (values: 0-1, default value: 0.4)"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:249
+msgid "screen width < 320px for 'set1' and 'set2'"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:291
+msgid "Slug"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-post-types.php:80
+#: ../bridge/includes/qode-custom-post-types.php:81
+msgid "Qode Carousel"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-post-types.php:82
+msgid "Carousel Items"
+msgstr "Items de Carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:83
+#: ../bridge/includes/qode-custom-post-types.php:86
+msgid "Add New Carousel Item"
+msgstr "Agregar nuevo item al carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:84
+msgid "Carousel Item"
+msgstr "Item del carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:85
+msgid "New Carousel Item"
+msgstr "Nuevo item del carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:87
+msgid "Edit Carousel Item"
+msgstr "Editar item del carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:104
+msgid "Masonry Gallery"
+msgstr "Galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:105
+msgid "Masonry Gallery Items"
+msgstr "Items de la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:106
+msgid "Masonry Gallery Item"
+msgstr "Item de la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:107
+msgid "New Masonry Gallery Item"
+msgstr "Nuevo item de la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:108
+msgid "Add New Masonry Gallery Item"
+msgstr "Agregar nuevo item a la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:109
+msgid "Edit Masonry Gallery Item"
+msgstr "Editar item en la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:129
+msgid "Parent Portfolio Category"
+msgstr "Categoría de portafolio padre "
+
+#: ../bridge/includes/qode-custom-post-types.php:130
+msgid "Parent Portfolio Category:"
+msgstr "Categoría portafolio padre: "
+
+#: ../bridge/includes/qode-custom-post-types.php:154
+msgid "Parent Portfolio Tag"
+msgstr "Etiqueta portafolio padre "
+
+#: ../bridge/includes/qode-custom-post-types.php:155
+msgid "Parent Portfolio Tags:"
+msgstr "Etiquetas portafolio padre: "
+
+#: ../bridge/includes/qode-custom-post-types.php:178
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-post-types.php:179
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../bridge/includes/qode-custom-post-types.php:226
+#: ../bridge/includes/qode-custom-post-types.php:236
+msgid "Carousels"
+msgstr "Carruseles "
+
+#: ../bridge/includes/qode-custom-post-types.php:227
+msgid "Carousel"
+msgstr "Carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:228
+msgid "Search Carousels"
+msgstr "Buscar carruseles "
+
+#: ../bridge/includes/qode-custom-post-types.php:229
+msgid "All Carousels"
+msgstr "Todos los carruseles "
+
+#: ../bridge/includes/qode-custom-post-types.php:230
+msgid "Parent Carousel"
+msgstr "Carrusel padre "
+
+#: ../bridge/includes/qode-custom-post-types.php:231
+msgid "Parent Carousel:"
+msgstr "Carrusel padre: "
+
+#: ../bridge/includes/qode-custom-post-types.php:232
+msgid "Edit Carousel"
+msgstr "Editar carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:233
+msgid "Update Carousel"
+msgstr "Actualizar carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:234
+msgid "Add New Carousel"
+msgstr "Agregar nuevo carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:235
+msgid "New Carousel Name"
+msgstr "Nuevo nombre de carrusel "
+
+#: ../bridge/includes/qode-custom-post-types.php:252
+msgid "Search Masonry Gallery Categories"
+msgstr "Buscar categorías de galería masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:253
+msgid "All Masonry Gallery Categories"
+msgstr "Todas las categorías de la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:254
+msgid "Parent Masonry Gallery Category"
+msgstr "Categoría padre Galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:255
+msgid "Parent Masonry Gallery Category:"
+msgstr "Categoría padre Galería Masonry : "
+
+#: ../bridge/includes/qode-custom-post-types.php:256
+msgid "Edit Masonry Gallery Category"
+msgstr "Editar categoría de la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:257
+msgid "Update Masonry Gallery Category"
+msgstr "Actualizar categoría galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:258
+msgid "Add New Masonry Gallery Category"
+msgstr "Agregar nueva categoría a la galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:259
+msgid "New Masonry Gallery Category Name"
+msgstr "Nuevo nombre de categoría galería Masonry "
+
+#: ../bridge/includes/qode-custom-post-types.php:260
+msgid "Masonry Gallery Categories"
+msgstr "Categorías de la galería Masonry "
+
+#: ../bridge/includes/qode-blog-helper-functions.php:15
+msgid "Large Height"
+msgstr "Gran altura "
+
+#: ../bridge/includes/qode-blog-helper-functions.php:16
+msgid "Large Width"
+msgstr "Gran ancho "
+
+#: ../bridge/includes/qode-blog-helper-functions.php:17
+msgid "Large Width/Height"
+msgstr "Gran ancho/altura "
+
+#: ../bridge/export/qode-export.php:299
+msgid "Qode Export"
+msgstr ""
+
+#: ../bridge/widgets/relate_posts_widget.php:8
+msgid "Related Posts Widget"
+msgstr ""
+
+#: ../bridge/widgets/social_icon_widget.php:8
+msgid "Qode Social Icon Widget"
+msgstr ""
+
+#: ../bridge/widgets/woocommerce-dropdown-cart.php:8
+msgid "Woocommerce Dropdown Cart"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:117
+msgid "Text Font Weight:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:144
+msgid "Padding Top (px):"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:149
+msgid "Padding Bottom (px):"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:162
+msgid "Button Link:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:167
+msgid "Button Text:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:172
+msgid "Button Target:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:182
+msgid "Button Text Color:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:187
+msgid "Button Hover Text Color:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:192
+msgid "Button Background Color:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:197
+msgid "Button Hover Background Color:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:202
+msgid "Button Border Color:"
+msgstr ""
+
+#: ../bridge/widgets/call_to_action_widget.php:207
+msgid "Button Hover Border Color:"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:181
+msgid "Anchor"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:217
+msgid "Wide menu position"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:242
+msgid "Icon Pack"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:248
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:280
+msgid "Custom widget area"
+msgstr "Área de widget personalizada "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:291
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:301
+msgid "Show custom widget area in popup (only for 'wide' menu types)"
+msgstr ""
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:310
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../bridge/includes/import/qode-import.php:77
+msgid "Widgets imported successfully"
+msgstr "Widgets importados satisfactoriamente "
+
+#: ../bridge/includes/import/qode-import.php:96
+msgid "Custom sidebars imported successfully"
+msgstr ""
+"\n"
+"Las barras laterales personalizadas se importaron correctamente"
+
+#: ../bridge/includes/import/qode-import.php:160
+msgid "Qode Import"
+msgstr ""
+
+#: ../bridge/includes/import/qode-import.php:173
+msgid "Bridge — One-Click Import"
+msgstr ""
+
+#: ../bridge/includes/import/qode-import.php:180
+msgid "Demo Site"
+msgstr "Sitio prueba "
+
+#: ../bridge/includes/import/qode-import.php:425
+msgid "Import attachments"
+msgstr "Importar adjuntos "
+
+#: ../bridge/includes/import/qode-import.php:465
+msgid "Delete all menus from Appearance > Menus before importing a new demo."
+msgstr ""
+"Elimine todos los menús de Aspecto> Menús antes de importar una nueva demo."
+
+#: ../bridge/includes/import/qode-import.php:466
+msgid ""
+"All options will be overwritten by the options for the demo you are "
+"importing."
+msgstr ""
+"Todas las opciones serán sobrescritas por las opciones para la prueba, que "
+"está importando."
+
+#: ../bridge/includes/import/qode-import.php:467
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+"\n"
+"Tenga en cuenta que el proceso de importación llevará tiempo para descargar "
+"todos los archivos adjuntos del sitio web de demostración."
+
+#: ../bridge/includes/plugins/instagram-widget.php:61
+#: ../bridge/includes/plugins/revolution-slider.php:59
+#: ../bridge/includes/plugins/visual-composer.php:58
+#: ../bridge/includes/plugins/qode-twitter-feed.php:61
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:58
+#: ../bridge/includes/plugins/layer-slider.php:59
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con el plugin API. "
+
+#: ../bridge/includes/plugins/instagram-widget.php:62
+#: ../bridge/includes/plugins/revolution-slider.php:60
+#: ../bridge/includes/plugins/visual-composer.php:59
+#: ../bridge/includes/plugins/qode-twitter-feed.php:62
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:59
+#: ../bridge/includes/plugins/layer-slider.php:60
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+"\n"
+"Este tema requiere el siguiente complemento:% 1 $ s."
+msgstr[1] "Este tema requiere los siguientes complementos: %1$s"
+
+#: ../bridge/includes/plugins/instagram-widget.php:63
+#: ../bridge/includes/plugins/revolution-slider.php:61
+#: ../bridge/includes/plugins/visual-composer.php:60
+#: ../bridge/includes/plugins/qode-twitter-feed.php:63
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:60
+#: ../bridge/includes/plugins/layer-slider.php:61
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente complemento: %1$s"
+msgstr[1] "Este tema recomienda los siguientes complementos: %1$s"
+
+#: ../bridge/includes/plugins/instagram-widget.php:64
+#: ../bridge/includes/plugins/revolution-slider.php:62
+#: ../bridge/includes/plugins/visual-composer.php:61
+#: ../bridge/includes/plugins/qode-twitter-feed.php:64
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:61
+#: ../bridge/includes/plugins/layer-slider.php:62
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Lo sentimos, pero no tiene los permisos correctos para instalar el "
+"complemento% s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo instalar el complemento."
+msgstr[1] ""
+"Lo sentimos, pero no tienes los permisos correctos para instalar los plugins "
+"de% s. Póngase en contacto con el administrador de este sitio para obtener "
+"ayuda sobre cómo instalar los complementos."
+
+#: ../bridge/includes/plugins/instagram-widget.php:65
+#: ../bridge/includes/plugins/revolution-slider.php:63
+#: ../bridge/includes/plugins/visual-composer.php:62
+#: ../bridge/includes/plugins/qode-twitter-feed.php:65
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:62
+#: ../bridge/includes/plugins/layer-slider.php:63
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"\n"
+"El siguiente complemento necesario está inactivo:% 1 $ s."
+msgstr[1] ""
+"\n"
+"Los siguientes complementos necesarios están inactivo:% 1 $ s."
+
+#: ../bridge/includes/plugins/instagram-widget.php:66
+#: ../bridge/includes/plugins/revolution-slider.php:64
+#: ../bridge/includes/plugins/visual-composer.php:63
+#: ../bridge/includes/plugins/qode-twitter-feed.php:66
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:63
+#: ../bridge/includes/plugins/layer-slider.php:64
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente complemento recomendado está inactivo:% 1 $ s."
+msgstr[1] ""
+"Los siguientes complementos recomendados están actualmente inactivos:% 1 $ s."
+
+#: ../bridge/includes/plugins/instagram-widget.php:67
+#: ../bridge/includes/plugins/revolution-slider.php:65
+#: ../bridge/includes/plugins/visual-composer.php:64
+#: ../bridge/includes/plugins/qode-twitter-feed.php:67
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:64
+#: ../bridge/includes/plugins/layer-slider.php:65
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"\n"
+"Lo sentimos, pero no tienes los permisos correctos para activar el "
+"complemento% s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo activar el complemento."
+msgstr[1] ""
+"Lo sentimos, pero no tienes los permisos correctos para activar los "
+"complementos% s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo activar los complementos."
+
+#: ../bridge/includes/plugins/instagram-widget.php:68
+#: ../bridge/includes/plugins/revolution-slider.php:66
+#: ../bridge/includes/plugins/visual-composer.php:65
+#: ../bridge/includes/plugins/qode-twitter-feed.php:68
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:65
+#: ../bridge/includes/plugins/layer-slider.php:66
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"\n"
+"El siguiente complemento debe actualizarse a su última versión para "
+"garantizar la máxima compatibilidad con este tema:% 1 $ s."
+msgstr[1] ""
+"\n"
+"Los siguientes complementos deben actualizarse a su última versión para "
+"garantizar la máxima compatibilidad con este tema:% 1 $ s."
+
+#: ../bridge/includes/plugins/instagram-widget.php:69
+#: ../bridge/includes/plugins/revolution-slider.php:67
+#: ../bridge/includes/plugins/visual-composer.php:66
+#: ../bridge/includes/plugins/qode-twitter-feed.php:69
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:66
+#: ../bridge/includes/plugins/layer-slider.php:67
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero no tienes los permisos correctos para actualizar el "
+"plugin% s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo actualizar el complemento."
+msgstr[1] ""
+"\n"
+"Lo sentimos, pero no tienes los permisos correctos para actualizar los "
+"plugins de% s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo actualizar los complementos."
+
+#: ../bridge/includes/plugins/instagram-widget.php:70
+#: ../bridge/includes/plugins/revolution-slider.php:68
+#: ../bridge/includes/plugins/visual-composer.php:67
+#: ../bridge/includes/plugins/qode-twitter-feed.php:70
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:67
+#: ../bridge/includes/plugins/layer-slider.php:68
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar instalación de plugin"
+msgstr[1] "Empezar instalación de plugins "
+
+#: ../bridge/includes/plugins/instagram-widget.php:71
+#: ../bridge/includes/plugins/revolution-slider.php:69
+#: ../bridge/includes/plugins/visual-composer.php:68
+#: ../bridge/includes/plugins/qode-twitter-feed.php:71
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:68
+#: ../bridge/includes/plugins/layer-slider.php:69
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar plugin instalado "
+msgstr[1] "Activar plugins instalados "
+
+#: ../bridge/includes/plugins/instagram-widget.php:72
+#: ../bridge/includes/plugins/revolution-slider.php:70
+#: ../bridge/includes/plugins/visual-composer.php:69
+#: ../bridge/includes/plugins/qode-twitter-feed.php:72
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:69
+#: ../bridge/includes/plugins/layer-slider.php:70
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: ../bridge/includes/plugins/instagram-widget.php:73
+#: ../bridge/includes/plugins/revolution-slider.php:71
+#: ../bridge/includes/plugins/visual-composer.php:70
+#: ../bridge/includes/plugins/qode-twitter-feed.php:73
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:70
+#: ../bridge/includes/plugins/layer-slider.php:71
+msgid "Plugin activated successfully."
+msgstr "Plugin activado satisfactoriamente. "
+
+#: ../bridge/includes/plugins/instagram-widget.php:74
+#: ../bridge/includes/plugins/revolution-slider.php:72
+#: ../bridge/includes/plugins/visual-composer.php:71
+#: ../bridge/includes/plugins/qode-twitter-feed.php:74
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:71
+#: ../bridge/includes/plugins/layer-slider.php:72
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins fueron instalados y activados satisfactoriamente. "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/button-v2/button.php:39
+msgid "Qode Button V2"
+msgstr ""
+
+#. Name of the theme
+msgid "Bridge Child"
+msgstr ""
+
+#. Description of the theme
+msgid "A child theme of Bridge Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.qodeinteractive.com/bridge/"
+msgstr ""
+
+#. Author of the theme
+msgid "Qode Interactive"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.qodethemes.com/"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Página destino "
+
+#. Name of the template
+msgid "Blog Compound"
+msgstr "Blog compuesto "
+
+#: ../bridge/404.php:14
+msgid "The page you are looking for is not found"
+msgstr "La página que buscas no fue encontrada "
+
+#: ../bridge/404.php:15
+msgid ""
+"The page you are looking for does not exist. It may have been moved, or "
+"removed altogether. Perhaps you can return back to the site’s homepage and "
+"see if you can find what you are looking for."
+msgstr ""
+"La página que estas buscando no existe. Pudo ser removida. Puedes volver a "
+"la página de inicio y quizás encontrar lo que buscas. "
+
+#: ../bridge/404.php:17
+msgid "Back to homepage"
+msgstr "De vuelta a la página de inicio "
+
+#. Name of the template
+msgid "Blog Large Image Simple"
+msgstr "Blog Imagen grande simple "
+
+#: ../bridge/search.php:48 ../bridge/search.php:69 ../bridge/search.php:97
+#: ../bridge/blog-vertical-loop.php:58
+#: ../bridge/templates/blog-structure.php:169
+msgid "No posts were found."
+msgstr "No se encontró ningún post."
+
+#. Name of the template
+msgid "Contact Page"
+msgstr "Página de contacto"
+
+#: ../bridge/contact-page.php:79
+msgid "Get in touch with us"
+msgstr "Ponte en contacto con nosotros"
+
+#: ../bridge/contact-page.php:82
+msgid "Say Hello! Don’t be shy."
+msgstr "Saluda! No seas tímido."
+
+#: ../bridge/contact-page.php:97 ../bridge/contact-page.php:160
+msgid "Contact Us"
+msgstr "Contáctenos "
+
+#: ../bridge/contact-page.php:102
+msgid "First Name *"
+msgstr "Nombre *"
+
+#: ../bridge/contact-page.php:108
+msgid "Last Name *"
+msgstr "Apellido *"
+
+#: ../bridge/contact-page.php:114 ../bridge/contact-page.php:122
+msgid "Email *"
+msgstr "Correo electrónico  *"
+
+#: ../bridge/contact-page.php:128 ../bridge/comments.php:52
+msgid "Website"
+msgstr "Página web "
+
+#: ../bridge/contact-page.php:133
+msgid "Message"
+msgstr "Mensaje "
+
+#: ../bridge/contact-page.php:187
+msgid "This is a required field"
+msgstr "Este es un campo obligatorio "
+
+#: ../bridge/contact-page.php:195
+msgid "Please enter a valid email address."
+msgstr "Por favor ingrese un correo electrónico válido. "
+
+#: ../bridge/contact-page.php:225
+msgid "THANK YOU!"
+msgstr "GRACIAS! "
+
+#: ../bridge/contact-page.php:225
+msgid ""
+"Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+"Su correo fue enviado satisfactoriamente. Estaremos en contacto lo más "
+"pronto posible. "
+
+#: ../bridge/contact-page.php:234
+msgid "Invalid Captcha"
+msgstr "Captcha inválido "
+
+#: ../bridge/contact-page.php:239
+msgid "Email server problem"
+msgstr "Problema con el servidor de correo electrónico "
+
+#. Name of the template
+msgid "Blog Headlines"
+msgstr "Encabezados de Blog "
+
+#. Name of the template
+msgid "Blog Chequered"
+msgstr "Blog a cuadros "
+
+#. Name of the template
+msgid "Blog Gallery"
+msgstr "Galería del Blog "
+
+#: ../bridge/comments.php:2
+msgid "No Comments"
+msgstr "Sin comentarios "
+
+#: ../bridge/comments.php:2 ../bridge/templates/blog_masonry-loop.php:50
+#: ../bridge/templates/blog_masonry-loop.php:74
+#: ../bridge/templates/blog_masonry-loop.php:91
+#: ../bridge/templates/blog_masonry-loop.php:128
+#: ../bridge/templates/blog_masonry-loop.php:145
+#: ../bridge/templates/blog_masonry-loop.php:176
+#: ../bridge/templates/blog_search-loop.php:46
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:84
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:140
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:207
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:255
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:304
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:362
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:63
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:106
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:143
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:199
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:236
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:282
+#: ../bridge/templates/blog-single-image-title-post-loop.php:81
+#: ../bridge/templates/blog_small_image-loop.php:63
+#: ../bridge/templates/blog_small_image-loop.php:107
+#: ../bridge/templates/blog_small_image-loop.php:151
+#: ../bridge/templates/blog_small_image-loop.php:204
+#: ../bridge/templates/blog_small_image-loop.php:248
+#: ../bridge/templates/blog_small_image-loop.php:294
+#: ../bridge/templates/blog_large_image-loop.php:63
+#: ../bridge/templates/blog_large_image-loop.php:106
+#: ../bridge/templates/blog_large_image-loop.php:160
+#: ../bridge/templates/blog_large_image-loop.php:197
+#: ../bridge/templates/blog_large_image-loop.php:234
+#: ../bridge/templates/blog_large_image-loop.php:280
+#: ../bridge/templates/blog_single-loop.php:74
+#: ../bridge/templates/blog_single-loop.php:104
+#: ../bridge/templates/blog_single-loop.php:129
+#: ../bridge/templates/blog_single-loop.php:188
+#: ../bridge/templates/blog_single-loop.php:214
+#: ../bridge/templates/blog_single-loop.php:250
+#: ../bridge/templates/blog_vertical-loop.php:83
+#: ../bridge/templates/blog_vertical-loop.php:153
+#: ../bridge/templates/blog_vertical-loop.php:224
+#: ../bridge/templates/blog_vertical-loop.php:296
+#: ../bridge/templates/blog_vertical-loop.php:369
+#: ../bridge/templates/blog_vertical-loop.php:442
+#: ../bridge/includes/shortcodes/shortcode-elements/latest-posts.php:173
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:129
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:155
+#: ../bridge/includes/shortcodes/shortcode-elements/blog-slider.php:227
+#: ../bridge/templates/blog-parts/compound/meta.php:7
+#: ../bridge/templates/blog-parts/pinterest/text.php:7
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../bridge/comments.php:2 ../bridge/templates/blog_masonry-loop.php:50
+#: ../bridge/templates/blog_masonry-loop.php:50
+#: ../bridge/templates/blog_masonry-loop.php:74
+#: ../bridge/templates/blog_masonry-loop.php:74
+#: ../bridge/templates/blog_masonry-loop.php:91
+#: ../bridge/templates/blog_masonry-loop.php:91
+#: ../bridge/templates/blog_masonry-loop.php:128
+#: ../bridge/templates/blog_masonry-loop.php:128
+#: ../bridge/templates/blog_masonry-loop.php:145
+#: ../bridge/templates/blog_masonry-loop.php:145
+#: ../bridge/templates/blog_masonry-loop.php:176
+#: ../bridge/templates/blog_masonry-loop.php:176
+#: ../bridge/templates/blog_search-loop.php:46
+#: ../bridge/templates/blog_search-loop.php:46
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:84
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:84
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:140
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:140
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:207
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:207
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:255
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:255
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:304
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:304
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:362
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:362
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:63
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:63
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:106
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:106
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:143
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:143
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:199
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:199
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:236
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:236
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:282
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:282
+#: ../bridge/templates/blog-single-image-title-post-loop.php:81
+#: ../bridge/templates/blog-single-image-title-post-loop.php:81
+#: ../bridge/templates/blog_small_image-loop.php:63
+#: ../bridge/templates/blog_small_image-loop.php:63
+#: ../bridge/templates/blog_small_image-loop.php:107
+#: ../bridge/templates/blog_small_image-loop.php:107
+#: ../bridge/templates/blog_small_image-loop.php:151
+#: ../bridge/templates/blog_small_image-loop.php:151
+#: ../bridge/templates/blog_small_image-loop.php:204
+#: ../bridge/templates/blog_small_image-loop.php:204
+#: ../bridge/templates/blog_small_image-loop.php:248
+#: ../bridge/templates/blog_small_image-loop.php:248
+#: ../bridge/templates/blog_small_image-loop.php:294
+#: ../bridge/templates/blog_small_image-loop.php:294
+#: ../bridge/templates/blog_large_image-loop.php:63
+#: ../bridge/templates/blog_large_image-loop.php:63
+#: ../bridge/templates/blog_large_image-loop.php:106
+#: ../bridge/templates/blog_large_image-loop.php:106
+#: ../bridge/templates/blog_large_image-loop.php:160
+#: ../bridge/templates/blog_large_image-loop.php:160
+#: ../bridge/templates/blog_large_image-loop.php:197
+#: ../bridge/templates/blog_large_image-loop.php:197
+#: ../bridge/templates/blog_large_image-loop.php:234
+#: ../bridge/templates/blog_large_image-loop.php:234
+#: ../bridge/templates/blog_large_image-loop.php:280
+#: ../bridge/templates/blog_large_image-loop.php:280
+#: ../bridge/templates/blog_single-loop.php:74
+#: ../bridge/templates/blog_single-loop.php:74
+#: ../bridge/templates/blog_single-loop.php:104
+#: ../bridge/templates/blog_single-loop.php:104
+#: ../bridge/templates/blog_single-loop.php:129
+#: ../bridge/templates/blog_single-loop.php:129
+#: ../bridge/templates/blog_single-loop.php:188
+#: ../bridge/templates/blog_single-loop.php:188
+#: ../bridge/templates/blog_single-loop.php:214
+#: ../bridge/templates/blog_single-loop.php:214
+#: ../bridge/templates/blog_single-loop.php:250
+#: ../bridge/templates/blog_single-loop.php:250
+#: ../bridge/templates/blog_vertical-loop.php:83
+#: ../bridge/templates/blog_vertical-loop.php:83
+#: ../bridge/templates/blog_vertical-loop.php:153
+#: ../bridge/templates/blog_vertical-loop.php:153
+#: ../bridge/templates/blog_vertical-loop.php:224
+#: ../bridge/templates/blog_vertical-loop.php:224
+#: ../bridge/templates/blog_vertical-loop.php:296
+#: ../bridge/templates/blog_vertical-loop.php:296
+#: ../bridge/templates/blog_vertical-loop.php:369
+#: ../bridge/templates/blog_vertical-loop.php:369
+#: ../bridge/templates/blog_vertical-loop.php:442
+#: ../bridge/templates/blog_vertical-loop.php:442
+#: ../bridge/includes/shortcodes/shortcode-elements/latest-posts.php:176
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:132
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:158
+#: ../bridge/includes/shortcodes/shortcode-elements/blog-slider.php:230
+#: ../bridge/templates/blog-parts/compound/meta.php:7
+#: ../bridge/templates/blog-parts/compound/meta.php:7
+#: ../bridge/templates/blog-parts/pinterest/text.php:7
+#: ../bridge/templates/blog-parts/pinterest/text.php:7
+msgid "Comments"
+msgstr "Comentarios "
+
+#: ../bridge/comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta publicación está protegida con contraseña. Ingrese la contraseña para "
+"visualizar el contenido. "
+
+#: ../bridge/comments.php:29
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Disculpa, la sección de comentarios está cerrada en estos momentos. "
+
+#: ../bridge/comments.php:42
+msgid "Post A Comment"
+msgstr "Publicar un comentario "
+
+#: ../bridge/comments.php:43
+#, php-format
+msgid "Post A Reply to %s"
+msgstr "Publicar una respuesta a %/"
+
+#: ../bridge/comments.php:44
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta "
+
+#: ../bridge/comments.php:46
+msgid "Write your comment here..."
+msgstr "Escriba su comentario aquí.."
+
+#: ../bridge/comments.php:50
+msgid "Your full name"
+msgstr "Nombre completo "
+
+#: ../bridge/comments.php:51
+msgid "E-mail address"
+msgstr "Correo electrónico "
+
+#. Name of the template
+msgid "Blog Pinterest"
+msgstr "Blog Pinterest "
+
+#: ../bridge/searchform.php:3
+msgid "Search Here"
+msgstr "Buscar aquí "
+
+#. Name of the template
+msgid "Full Screen Sections"
+msgstr "Secciones de pantalla completa "
+
+#: ../bridge/functions.php:437
+msgid "Top Navigation"
+msgstr "Navegación superior "
+
+#: ../bridge/functions.php:444
+msgid "Fullscreen Navigation"
+msgstr "Navegación a pantalla completa "
+
+#: ../bridge/functions.php:451
+msgid "Left Top Navigation"
+msgstr "Navegación superior izquierda "
+
+#: ../bridge/functions.php:457
+msgid "Right Top Navigation"
+msgstr "Navegación superior derecha "
+
+#: ../bridge/functions.php:1633
+msgid "Author:"
+msgstr "Autor: "
+
+#: ../bridge/functions.php:1651 ../bridge/header.php:472
+#: ../bridge/header.php:495 ../bridge/header.php:517 ../bridge/header.php:941
+#: ../bridge/header.php:962 ../bridge/header.php:984 ../bridge/header.php:1130
+msgid "Search"
+msgstr "Buscar "
+
+#: ../bridge/functions.php:1662
+msgid "404 - Page not found"
+msgstr "404- Página no encontrada "
+
+#: ../bridge/functions.php:1691
+msgid "Archive"
+msgstr "Archivar "
+
+#: ../bridge/header.php:1403
+msgid "Search:"
+msgstr "Buscar; "
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Ancho total "
+
+#. Name of the template
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:73
+#: ../bridge/woocommerce/woocommerce_configuration.php:84
+msgid "First name"
+msgstr "Nombre "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:74
+#: ../bridge/woocommerce/woocommerce_configuration.php:85
+msgid "Last name"
+msgstr "Apellido"
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:75
+#: ../bridge/woocommerce/woocommerce_configuration.php:86
+msgid "Company name"
+msgstr "Nombre de la compañía "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:76
+#: ../bridge/woocommerce/woocommerce_configuration.php:87
+msgid "Address"
+msgstr "Dirección"
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:77
+msgid "Email"
+msgstr "Correo electrónico "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:78
+msgid "Phone"
+msgstr "Número de teléfono "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:79
+#: ../bridge/woocommerce/woocommerce_configuration.php:88
+msgid "Postcode / ZIP"
+msgstr "Código postal "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:367
+msgid "Additional Information"
+msgstr "Información adicional "
+
+#: ../bridge/woocommerce/woocommerce_configuration.php:369
+msgid "Additional Info"
+msgstr "Información adicional "
+
+#: ../bridge/includes/qode-like.php:76 ../bridge/includes/qode-like.php:100
+msgid " Likes"
+msgstr "Me gusta "
+
+#: ../bridge/includes/qode-like.php:78 ../bridge/includes/qode-like.php:102
+msgid " Like"
+msgstr "Me gusta "
+
+#: ../bridge/includes/qode-like.php:123
+msgid "Like this"
+msgstr "Me gusta esto "
+
+#: ../bridge/includes/qode-like.php:126
+msgid "You already like this!"
+msgstr "Ya te gusta esto! "
+
+#: ../bridge/includes/qode-breadcrumbs.php:15
+msgid "Home"
+msgstr "Inicio "
+
+#: ../bridge/includes/qode-breadcrumbs.php:45
+msgid "Search results for \""
+msgstr "Buscar resultados para \""
+
+#: ../bridge/includes/qode-breadcrumbs.php:104
+msgid "Posts tagged \""
+msgstr "Publicaciones etiquetadas \""
+
+#: ../bridge/includes/qode-breadcrumbs.php:109
+msgid "Articles posted by "
+msgstr "Artículos publicados por "
+
+#: ../bridge/includes/qode-breadcrumbs.php:112
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../bridge/includes/qode-breadcrumbs.php:122
+msgid "Page"
+msgstr "Página "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:10
+msgid "Effect on header (dark/light style)"
+msgstr "Efecto en encabezado (oscuro/claro) "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:33
+msgid "Advanced responsiveness"
+msgstr "Capacidad de respuesta avanzada"
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:48
+#: ../bridge/includes/qode-custom-taxonomy-field.php:78
+#: ../bridge/includes/qode-custom-taxonomy-field.php:108
+#: ../bridge/includes/qode-custom-taxonomy-field.php:138
+#: ../bridge/includes/qode-custom-taxonomy-field.php:168
+#: ../bridge/includes/qode-custom-taxonomy-field.php:198
+#: ../bridge/includes/qode-custom-taxonomy-field.php:228
+msgid "Graphic"
+msgstr "Gráfico "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:52
+#: ../bridge/includes/qode-custom-taxonomy-field.php:82
+#: ../bridge/includes/qode-custom-taxonomy-field.php:112
+#: ../bridge/includes/qode-custom-taxonomy-field.php:142
+#: ../bridge/includes/qode-custom-taxonomy-field.php:172
+#: ../bridge/includes/qode-custom-taxonomy-field.php:202
+#: ../bridge/includes/qode-custom-taxonomy-field.php:232
+msgid "Title"
+msgstr "Titulo "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:56
+#: ../bridge/includes/qode-custom-taxonomy-field.php:86
+#: ../bridge/includes/qode-custom-taxonomy-field.php:116
+#: ../bridge/includes/qode-custom-taxonomy-field.php:146
+#: ../bridge/includes/qode-custom-taxonomy-field.php:176
+#: ../bridge/includes/qode-custom-taxonomy-field.php:206
+#: ../bridge/includes/qode-custom-taxonomy-field.php:236
+msgid "Subtitle"
+msgstr "Subtitulo "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:60
+#: ../bridge/includes/qode-custom-taxonomy-field.php:90
+#: ../bridge/includes/qode-custom-taxonomy-field.php:120
+#: ../bridge/includes/qode-custom-taxonomy-field.php:150
+#: ../bridge/includes/qode-custom-taxonomy-field.php:180
+#: ../bridge/includes/qode-custom-taxonomy-field.php:210
+#: ../bridge/includes/qode-custom-taxonomy-field.php:240
+msgid "Text"
+msgstr "Texto "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:64
+#: ../bridge/includes/qode-custom-taxonomy-field.php:94
+#: ../bridge/includes/qode-custom-taxonomy-field.php:124
+#: ../bridge/includes/qode-custom-taxonomy-field.php:154
+#: ../bridge/includes/qode-custom-taxonomy-field.php:184
+#: ../bridge/includes/qode-custom-taxonomy-field.php:214
+#: ../bridge/includes/qode-custom-taxonomy-field.php:244
+msgid "Button"
+msgstr "Botón "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:258
+msgid "Use this shortcode to insert it on page"
+msgstr "Usa este código para insertar en la página "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:288
+msgid "Name"
+msgstr "Nombre"
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:289
+msgid "Shortcode"
+msgstr "Código "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:292
+msgid "Posts"
+msgstr "Publicaciones "
+
+#: ../bridge/includes/qode-custom-post-types.php:18
+msgid "Portfolio"
+msgstr "Portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:19
+msgid "Portfolio Item"
+msgstr "Elemento del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:20
+msgid "New Portfolio Item"
+msgstr "Nuevo elemento del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:21
+msgid "Add New Portfolio Item"
+msgstr "Agregar nuevo elemento al portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:22
+msgid "Edit Portfolio Item"
+msgstr "Editar elemento del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:125
+#: ../bridge/includes/qode-custom-post-types.php:135
+msgid "Portfolio Categories"
+msgstr "Categorías del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:126
+msgid "Portfolio Category"
+msgstr "Categoría del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:127
+msgid "Search Portfolio Categories"
+msgstr "Buscar categorías del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:128
+msgid "All Portfolio Categories"
+msgstr "Todas las categorías del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:131
+msgid "Edit Portfolio Category"
+msgstr "Editar categoría del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:132
+msgid "Update Portfolio Category"
+msgstr "Actualizar categoría del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:133
+msgid "Add New Portfolio Category"
+msgstr "Agregar nueva categoría al portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:134
+msgid "New Portfolio Category Name"
+msgstr "Nombre de la nueva categoría del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:150
+#: ../bridge/includes/qode-custom-post-types.php:160
+msgid "Portfolio Tags"
+msgstr "Etiquetas del portafolio"
+
+#: ../bridge/includes/qode-custom-post-types.php:151
+msgid "Portfolio Tag"
+msgstr "Etiqueta del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:152
+msgid "Search Portfolio Tags"
+msgstr "Buscar etiquetas del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:153
+msgid "All Portfolio Tags"
+msgstr "Todas las etiquetas del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:156
+msgid "Edit Portfolio Tag"
+msgstr "Editar etiqueta del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:157
+msgid "Update Portfolio Tag"
+msgstr "Actualizar etiqueta del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:158
+msgid "Add New Portfolio Tag"
+msgstr "Agregar nueva etiqueta al portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:159
+msgid "New Portfolio Tag Name"
+msgstr "Nombre de la nueva etiqueta del portafolio "
+
+#: ../bridge/includes/qode-custom-post-types.php:174
+#: ../bridge/includes/qode-custom-post-types.php:184
+msgid "Testimonials Categories"
+msgstr "Categorías de testimonios "
+
+#: ../bridge/includes/qode-custom-post-types.php:175
+msgid "Testimonial Category"
+msgstr "Categoría testimonial "
+
+#: ../bridge/includes/qode-custom-post-types.php:176
+msgid "Search Testimonials Categories"
+msgstr "Buscar categorías testimoniales "
+
+#: ../bridge/includes/qode-custom-post-types.php:177
+msgid "All Testimonials Categories"
+msgstr "Todas las categorías testimoniales "
+
+#: ../bridge/includes/qode-custom-post-types.php:180
+msgid "Edit Testimonials Category"
+msgstr "Editar categoría de testimonios "
+
+#: ../bridge/includes/qode-custom-post-types.php:181
+msgid "Update Testimonials Category"
+msgstr "Actualizar categorías de testimonios "
+
+#: ../bridge/includes/qode-custom-post-types.php:182
+msgid "Add New Testimonials Category"
+msgstr "Agregar nueva categoría de testimonios "
+
+#: ../bridge/includes/qode-custom-post-types.php:183
+msgid "New Testimonials Category Name"
+msgstr "Nombre de la nueva categoría de testimonios "
+
+#: ../bridge/includes/qode-custom-post-types.php:205
+msgid "Parent Slider"
+msgstr "Deslizador padre "
+
+#: ../bridge/includes/qode-custom-post-types.php:206
+msgid "Parent Slider:"
+msgstr "Deslizador padre: "
+
+#: ../bridge/includes/qode-custom-post-types.php:207
+msgid "Edit Slider"
+msgstr "Editar deslizador "
+
+#: ../bridge/includes/qode-custom-post-types.php:208
+msgid "Update Slider"
+msgstr "Actualizar deslizador "
+
+#: ../bridge/includes/qode-custom-post-types.php:209
+msgid "Add New Slider"
+msgstr "Añadir nuevo deslizador "
+
+#: ../bridge/includes/qode-custom-post-types.php:210
+msgid "New Slider Name"
+msgstr "Nombre del nuevo deslizador "
+
+#: ../bridge/includes/qode-blog-helper-functions.php:14
+msgid "Default"
+msgstr "Defecto "
+
+#: ../bridge/export/qode-export.php:319
+msgid "Export"
+msgstr "Exportar "
+
+#: ../bridge/framework/qode-framework.php:194
+#: ../bridge/framework/qode-framework.php:265
+msgid "Save Changes"
+msgstr "Guardar cambios "
+
+#: ../bridge/framework/qode-framework.php:436
+msgid "Dismiss this notice"
+msgstr "Descarta este anuncio "
+
+#: ../bridge/templates/blog_masonry-loop.php:64
+#: ../bridge/templates/blog_large_image_simple-loop.php:68
+#: ../bridge/templates/blog_large_image_with_dividers-loop.php:103
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:90
+#: ../bridge/templates/blog_large_image-loop.php:90
+#: ../bridge/templates/blog_single-loop.php:90
+#: ../bridge/templates/blog_masonry_date_in_image-loop.php:88
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:88
+#: ../bridge/templates/blog-parts/pinterest/audio.php:3
+msgid "Your browser don't support audio player"
+msgstr "Su navegador no admite reproductor de audio"
+
+#: ../bridge/templates/blog_search-loop.php:31
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:54
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:97
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:134
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:190
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:227
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:273
+#: ../bridge/templates/blog_small_image-loop.php:54
+#: ../bridge/templates/blog_small_image-loop.php:98
+#: ../bridge/templates/blog_small_image-loop.php:142
+#: ../bridge/templates/blog_small_image-loop.php:195
+#: ../bridge/templates/blog_small_image-loop.php:239
+#: ../bridge/templates/blog_small_image-loop.php:285
+#: ../bridge/templates/blog_large_image-loop.php:54
+#: ../bridge/templates/blog_large_image-loop.php:97
+#: ../bridge/templates/blog_large_image-loop.php:151
+#: ../bridge/templates/blog_large_image-loop.php:188
+#: ../bridge/templates/blog_large_image-loop.php:225
+#: ../bridge/templates/blog_large_image-loop.php:271
+#: ../bridge/templates/blog_single-loop.php:67
+#: ../bridge/templates/blog_single-loop.php:97
+#: ../bridge/templates/blog_single-loop.php:122
+#: ../bridge/templates/blog_single-loop.php:181
+#: ../bridge/templates/blog_single-loop.php:207
+#: ../bridge/templates/blog_single-loop.php:243
+#: ../bridge/includes/comment/comment.php:12
+msgid "Posted at"
+msgstr "Publicado en "
+
+#: ../bridge/templates/blog_search-loop.php:31
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:54
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:97
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:134
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:190
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:227
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:273
+#: ../bridge/templates/blog_small_image-loop.php:54
+#: ../bridge/templates/blog_small_image-loop.php:98
+#: ../bridge/templates/blog_small_image-loop.php:142
+#: ../bridge/templates/blog_small_image-loop.php:195
+#: ../bridge/templates/blog_small_image-loop.php:239
+#: ../bridge/templates/blog_small_image-loop.php:285
+#: ../bridge/templates/blog_large_image-loop.php:54
+#: ../bridge/templates/blog_large_image-loop.php:97
+#: ../bridge/templates/blog_large_image-loop.php:151
+#: ../bridge/templates/blog_large_image-loop.php:188
+#: ../bridge/templates/blog_large_image-loop.php:225
+#: ../bridge/templates/blog_large_image-loop.php:271
+#: ../bridge/templates/blog_single-loop.php:67
+#: ../bridge/templates/blog_single-loop.php:97
+#: ../bridge/templates/blog_single-loop.php:122
+#: ../bridge/templates/blog_single-loop.php:181
+#: ../bridge/templates/blog_single-loop.php:207
+#: ../bridge/templates/blog_single-loop.php:243
+msgid "h"
+msgstr "h"
+
+#: ../bridge/templates/blog_search-loop.php:35
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:55
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:98
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:135
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:191
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:228
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:274
+#: ../bridge/templates/blog_small_image-loop.php:55
+#: ../bridge/templates/blog_small_image-loop.php:99
+#: ../bridge/templates/blog_small_image-loop.php:143
+#: ../bridge/templates/blog_small_image-loop.php:196
+#: ../bridge/templates/blog_small_image-loop.php:240
+#: ../bridge/templates/blog_small_image-loop.php:286
+#: ../bridge/templates/blog_large_image-loop.php:55
+#: ../bridge/templates/blog_large_image-loop.php:98
+#: ../bridge/templates/blog_large_image-loop.php:152
+#: ../bridge/templates/blog_large_image-loop.php:189
+#: ../bridge/templates/blog_large_image-loop.php:226
+#: ../bridge/templates/blog_large_image-loop.php:272
+#: ../bridge/templates/blog_single-loop.php:68
+#: ../bridge/templates/blog_single-loop.php:98
+#: ../bridge/templates/blog_single-loop.php:123
+#: ../bridge/templates/blog_single-loop.php:182
+#: ../bridge/templates/blog_single-loop.php:208
+#: ../bridge/templates/blog_single-loop.php:244
+#: ../bridge/templates/blog-parts/pinterest/text.php:5
+#: ../bridge/templates/blog-parts/masonry-gallery/text.php:8
+msgid "in"
+msgstr "En"
+
+#: ../bridge/templates/blog_search-loop.php:41
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:58
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:101
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:138
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:194
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:231
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:277
+#: ../bridge/templates/blog-single-image-title-post-loop.php:76
+#: ../bridge/templates/blog_small_image-loop.php:58
+#: ../bridge/templates/blog_small_image-loop.php:102
+#: ../bridge/templates/blog_small_image-loop.php:146
+#: ../bridge/templates/blog_small_image-loop.php:199
+#: ../bridge/templates/blog_small_image-loop.php:243
+#: ../bridge/templates/blog_small_image-loop.php:289
+#: ../bridge/templates/blog_large_image-loop.php:58
+#: ../bridge/templates/blog_large_image-loop.php:101
+#: ../bridge/templates/blog_large_image-loop.php:155
+#: ../bridge/templates/blog_large_image-loop.php:192
+#: ../bridge/templates/blog_large_image-loop.php:229
+#: ../bridge/templates/blog_large_image-loop.php:275
+#: ../bridge/templates/blog_single-loop.php:70
+#: ../bridge/templates/blog_single-loop.php:100
+#: ../bridge/templates/blog_single-loop.php:125
+#: ../bridge/templates/blog_single-loop.php:184
+#: ../bridge/templates/blog_single-loop.php:210
+#: ../bridge/templates/blog_single-loop.php:246
+#: ../bridge/templates/blog-parts/gallery/text.php:12
+msgid "by"
+msgstr "Por "
+
+#: ../bridge/templates/blog_search-loop.php:64
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:76
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:119
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:212
+#: ../bridge/templates/blog_large_image_whole_post-loop.php:295
+#: ../bridge/templates/blog_small_image-loop.php:76
+#: ../bridge/templates/blog_small_image-loop.php:120
+#: ../bridge/templates/blog_small_image-loop.php:217
+#: ../bridge/templates/blog_small_image-loop.php:307
+#: ../bridge/templates/blog_large_image-loop.php:76
+#: ../bridge/templates/blog_large_image-loop.php:119
+#: ../bridge/templates/blog_large_image-loop.php:173
+#: ../bridge/templates/blog_large_image-loop.php:293
+#: ../bridge/includes/shortcodes/shortcode-elements/blog-slider.php:352
+msgid "Read More"
+msgstr "Leer más "
+
+#: ../bridge/templates/masonry-filter.php:28
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:222
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:563
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:925
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:958
+msgid "All"
+msgstr "Todo"
+
+#: ../bridge/templates/portfolio-related.php:12
+msgid "Related Projects"
+msgstr "Proyectos relacionados "
+
+#: ../bridge/templates/portfolio-related.php:42
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-slider.php:146
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:394
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:749
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1123
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1175
+msgid "view"
+msgstr "Visualizar "
+
+#: ../bridge/templates/blog-structure.php:177
+#: ../bridge/templates/blog-structure.php:182
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:911
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1405
+msgid "Show more"
+msgstr "Mostrar más "
+
+#: ../bridge/templates/blog-structure.php:178
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:912
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1406
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../bridge/templates/blog_single-loop.php:265
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: ../bridge/templates/portfolio-loop.php:231
+#: ../bridge/templates/portfolio-loop.php:409
+#: ../bridge/templates/portfolio-loop.php:589
+#: ../bridge/templates/portfolio-loop.php:808
+#: ../bridge/templates/portfolio-loop.php:1030
+#: ../bridge/templates/portfolio-loop.php:1216
+msgid "Date"
+msgstr "Fecha "
+
+#: ../bridge/templates/portfolio-loop.php:242
+#: ../bridge/templates/portfolio-loop.php:420
+#: ../bridge/templates/portfolio-loop.php:600
+#: ../bridge/templates/portfolio-loop.php:819
+#: ../bridge/templates/portfolio-loop.php:1041
+#: ../bridge/templates/portfolio-loop.php:1227
+msgid "Category "
+msgstr "Categoría "
+
+#: ../bridge/templates/portfolio-loop.php:266
+#: ../bridge/templates/portfolio-loop.php:444
+#: ../bridge/templates/portfolio-loop.php:624
+#: ../bridge/templates/portfolio-loop.php:843
+#: ../bridge/templates/portfolio-loop.php:1065
+#: ../bridge/templates/portfolio-loop.php:1251
+msgid "Tags"
+msgstr "Etiquetas "
+
+#: ../bridge/templates/portfolio-loop.php:274
+#: ../bridge/templates/portfolio-loop.php:453
+#: ../bridge/templates/portfolio-loop.php:554
+#: ../bridge/templates/portfolio-loop.php:773
+#: ../bridge/templates/portfolio-loop.php:995
+#: ../bridge/templates/portfolio-loop.php:1181
+msgid "About This Project"
+msgstr "Acerca de este proyecto "
+
+#: ../bridge/templates/portfolio-loop.php:1169
+#: ../bridge/templates/blog-parts/blog-share-like-below-text.php:7
+msgid "Print page"
+msgstr "Imprimir página "
+
+#: ../bridge/templates/blog_vertical-loop.php:103
+#: ../bridge/templates/blog_vertical-loop.php:173
+#: ../bridge/templates/blog_vertical-loop.php:247
+#: ../bridge/templates/blog_vertical-loop.php:316
+#: ../bridge/templates/blog_vertical-loop.php:393
+#: ../bridge/templates/blog_vertical-loop.php:462
+msgid "See More"
+msgstr "Ver más "
+
+#: ../bridge/widgets/relate_posts_widget.php:15
+msgid "Related Posts"
+msgstr "Publicaciones relacionadas "
+
+#: ../bridge/widgets/relate_posts_widget.php:75
+#: ../bridge/widgets/latest_posts_menu.php:83
+msgid "Title:"
+msgstr "Titulo: "
+
+#: ../bridge/widgets/relate_posts_widget.php:79
+#: ../bridge/widgets/latest_posts_menu.php:87
+msgid "Number of posts:"
+msgstr "Número de publicaciones: "
+
+#: ../bridge/widgets/latest_posts_menu.php:8
+msgid "Menu Latest Posts"
+msgstr "Menú últimas publicaciones "
+
+#: ../bridge/widgets/latest_posts_menu.php:50
+msgid "Posted in"
+msgstr "Publicado en "
+
+#: ../bridge/widgets/latest_posts_menu.php:51
+msgid " by"
+msgstr "Por "
+
+# C
+#: ../bridge/widgets/latest_posts_menu.php:91
+msgid "Category:"
+msgstr "Categoría: "
+
+#: ../bridge/widgets/latest_posts_widget.php:9
+msgid "Display posts from your blog"
+msgstr "Mostrar publicaciones de tu Blog "
+
+#: ../bridge/widgets/call_to_action_widget.php:8
+msgid "Call to Action Widget"
+msgstr "Widget de llamada de atención "
+
+#: ../bridge/widgets/call_to_action_widget.php:81
+msgid "Full Width:"
+msgstr "Ancho total: "
+
+#: ../bridge/widgets/call_to_action_widget.php:83
+#: ../bridge/widgets/call_to_action_widget.php:91
+#: ../bridge/widgets/call_to_action_widget.php:156
+msgid "Yes"
+msgstr "Si"
+
+#: ../bridge/widgets/call_to_action_widget.php:84
+#: ../bridge/widgets/call_to_action_widget.php:92
+#: ../bridge/widgets/call_to_action_widget.php:157
+msgid "No"
+msgstr "No"
+
+#: ../bridge/widgets/call_to_action_widget.php:89
+msgid "Content In Grid:"
+msgstr "Contenido en cuadrícula "
+
+#: ../bridge/widgets/call_to_action_widget.php:97
+msgid "Text:"
+msgstr "Texto:"
+
+#: ../bridge/widgets/call_to_action_widget.php:102
+msgid "Text Color:"
+msgstr "Color del texto: "
+
+#: ../bridge/widgets/call_to_action_widget.php:107
+msgid "Text Size:"
+msgstr "Tamaño del texto:"
+
+#: ../bridge/widgets/call_to_action_widget.php:112
+msgid "Text Letter Spacing:"
+msgstr "Espaciado entre letras de texto "
+
+#: ../bridge/widgets/call_to_action_widget.php:126
+msgid "Type:"
+msgstr "Tipo:"
+
+#: ../bridge/widgets/call_to_action_widget.php:128
+msgid "Normal"
+msgstr "Normal"
+
+#: ../bridge/widgets/call_to_action_widget.php:129
+msgid "With Icon"
+msgstr "Con icono "
+
+#: ../bridge/widgets/call_to_action_widget.php:134
+msgid "Background Color:"
+msgstr "Color de fondo:"
+
+#: ../bridge/widgets/call_to_action_widget.php:139
+msgid "Border Color:"
+msgstr "Color del borde: "
+
+#: ../bridge/widgets/call_to_action_widget.php:154
+msgid "Show Button:"
+msgstr "Mostrar tecla: "
+
+#: ../bridge/js/default_dynamic.php:22
+msgid "Comment has been sent!"
+msgstr "Comentario enviado! "
+
+#: ../bridge/js/default_dynamic.php:115
+msgid "Loading new posts..."
+msgstr "Cargando nuevas publicaciones..."
+
+#: ../bridge/js/default_dynamic.php:119
+msgid "No more posts"
+msgstr "No más publicaciones "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%/ (inválido)"
+
+#. %s: title of menu item in draft status
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr "%/ (Pendiente)"
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:107
+msgid "Move up"
+msgstr "Mover arriba "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:120
+msgid "Move down"
+msgstr "Mover abajo "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:122
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr "Editar elemento del menú "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:133
+msgid "URL"
+msgstr "URL"
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr "Etiqueta de navegación "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr "Atributo del titulo "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr "Abrir vinculo en una nueva ventana "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr "Descripción "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:172
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción aparecerá en el menú si el tema actual la soporta. "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:192
+msgid "Don't link"
+msgstr "No enlace "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:202
+msgid "Don't show"
+msgstr "No mostrar "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:207
+msgid "Type"
+msgstr "Escribir "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:259
+msgid "Icon"
+msgstr "Icono "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:323
+msgid "Remove"
+msgstr "Remover "
+
+#: ../bridge/includes/nav_menu/edit_custom_walker.php:324
+msgid "Cancel"
+msgstr "Cancelar "
+
+#: ../bridge/includes/import/qode-import.php:41
+#: ../bridge/includes/import/qode-import.php:62
+msgid "Content imported successfully"
+msgstr "Contenido importado satisfactoriamente "
+
+#: ../bridge/includes/import/qode-import.php:59
+msgid "An Error Occurred During Import"
+msgstr "Un error ocurrió mientras importabas "
+
+#: ../bridge/includes/import/qode-import.php:66
+msgid "Error loading files"
+msgstr "Error cargando los archivos "
+
+#: ../bridge/includes/import/qode-import.php:102
+msgid "Options imported successfully"
+msgstr "Opciones importadas satisfactoriamente "
+
+#: ../bridge/includes/import/qode-import.php:403
+msgid "Import Type"
+msgstr "Importar escrito "
+
+#: ../bridge/includes/import/qode-import.php:452
+msgid "The import process may take some time. Please be patient."
+msgstr "El proceso puede tomar tiempo. Por favor ser paciente. "
+
+#: ../bridge/includes/import/qode-import.php:463
+msgid "Important notes:"
+msgstr "Notas importantes: "
+
+#: ../bridge/includes/import/qode-import.php:468
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+"Si planeas usar la tienda, por favor instala WooCommerce antes de importar. "
+
+#: ../bridge/includes/plugins/instagram-widget.php:58
+#: ../bridge/includes/plugins/revolution-slider.php:56
+#: ../bridge/includes/plugins/visual-composer.php:55
+#: ../bridge/includes/plugins/qode-twitter-feed.php:58
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:55
+#: ../bridge/includes/plugins/layer-slider.php:56
+msgid "Install Required Plugins"
+msgstr "Instale los plugins requeridos "
+
+#: ../bridge/includes/plugins/instagram-widget.php:59
+#: ../bridge/includes/plugins/revolution-slider.php:57
+#: ../bridge/includes/plugins/visual-composer.php:56
+#: ../bridge/includes/plugins/qode-twitter-feed.php:59
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:56
+#: ../bridge/includes/plugins/layer-slider.php:57
+msgid "Install Plugins"
+msgstr "Instalar plugins "
+
+#: ../bridge/includes/plugins/instagram-widget.php:60
+#: ../bridge/includes/plugins/revolution-slider.php:58
+#: ../bridge/includes/plugins/visual-composer.php:57
+#: ../bridge/includes/plugins/qode-twitter-feed.php:60
+#: ../bridge/includes/plugins/envato-wordpress-toolkit.php:57
+#: ../bridge/includes/plugins/layer-slider.php:58
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: ../bridge/includes/comment/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación. "
+
+#: ../bridge/includes/sidebar/qode-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr "área del widget personalizado "
+
+#: ../bridge/framework/lib/qode.functions.php:799
+msgid "Same Window"
+msgstr "Misma ventana "
+
+#: ../bridge/framework/lib/qode.functions.php:800
+msgid "New Window"
+msgstr "Nueva ventana "
+
+#: ../bridge/widgets/lib/widget-class.php:87
+msgid "There are no options for this widget."
+msgstr "No hay opciones para este widget. "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share.php:41
+msgid "Share"
+msgstr "Compartir "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-slider.php:143
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:391
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:746
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1120
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1172
+msgid "zoom"
+msgstr "Acercar"
+
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-slider.php:160
+#: ../bridge/includes/shortcodes/shortcode-elements/testimonials-carousel.php:125
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-gallery.php:214
+#: ../bridge/includes/shortcodes/shortcode-elements/testimonials.php:127
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:550
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:903
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1397
+#: ../bridge/includes/shortcodes/shortcode-elements/slider.php:1387
+#: ../bridge/includes/shortcodes/shortcode-elements/testimonials-masonry.php:169
+#: ../bridge/includes/shortcodes/shortcode-elements/carousel.php:130
+#: ../bridge/includes/shortcodes/shortcode-elements/blog-slider.php:367
+msgid "Sorry, no posts matched your criteria."
+msgstr "Disculpa, ninguna publicación coincide con tu búsqueda. "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/latest-posts.php:170
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:126
+#: ../bridge/includes/shortcodes/shortcode-elements/masonry-blog.php:152
+#: ../bridge/includes/shortcodes/shortcode-elements/blog-slider.php:224
+msgid "No comment"
+msgstr "Sin comentario "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:473
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:828
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:875
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1285
+#: ../bridge/includes/shortcodes/shortcode-elements/portfolio-list.php:1333
+msgid "Go to Project"
+msgstr "Ir a proyecto "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/latest-posts-two.php:137
+msgid "Author Image"
+msgstr "Imagen de autor "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/slider.php:1368
+msgid "Sorry, no slides matched your criteria."
+msgstr "Disculpa, ninguna diapositiva coincide con tu búsqueda. "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:19
+msgid "Share on: "
+msgstr "Compartir en: "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:31
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:34
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:57
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:60
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:75
+msgid "Share on Google+"
+msgstr "Compartir en Google+"
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:87
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:99
+msgid "Share on Tumblr"
+msgstr "Compartir en Tumblr "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:112
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/social-share-list.php:125
+msgid "Share on VK"
+msgstr "Compartir en VK "
+
+#: ../bridge/templates/blog-parts/compound/meta.php:13
+msgid "Continue Reading"
+msgstr "Continuar leyendo "
+
+#: ../bridge/templates/blog-parts/masonry-gallery/text.php:6
+msgid "By"
+msgstr "Por "
+
+#: ../bridge/includes/shortcodes/shortcode-elements/button-v2/button.php:162
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr "Blog largo imagen simple "
+
+#: ../bridge/includes/qode-custom-taxonomy-field.php:254
+msgid "Slider shortcode"
+msgstr "Código corto del Deslizador"
+
+#: ../bridge/includes/qode-custom-post-types.php:36
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: ../bridge/includes/qode-custom-post-types.php:37
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: ../bridge/includes/qode-custom-post-types.php:38
+msgid "New Testimonial"
+msgstr "Nuevo Testimonio"
+
+#: ../bridge/includes/qode-custom-post-types.php:39
+msgid "Add New Testimonial"
+msgstr "Añadir Nuevo Testimonio"
+
+#: ../bridge/includes/qode-custom-post-types.php:40
+msgid "Edit Testimonial"
+msgstr "Editar Testimonio"
+
+#: ../bridge/includes/qode-custom-post-types.php:56
+#: ../bridge/includes/qode-custom-post-types.php:57
+msgid "Qode Slider"
+msgstr "Deslizador Qode"
+
+#: ../bridge/includes/qode-custom-post-types.php:58
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: ../bridge/includes/qode-custom-post-types.php:59
+#: ../bridge/includes/qode-custom-post-types.php:62
+msgid "Add New Slide"
+msgstr "Añadir Nueva Diapositiva"
+
+#: ../bridge/includes/qode-custom-post-types.php:60
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: ../bridge/includes/qode-custom-post-types.php:61
+msgid "New Slide"
+msgstr "Nuevo Diapositiva"
+
+#: ../bridge/includes/qode-custom-post-types.php:63
+msgid "Edit Slide"
+msgstr "Editar Diapositiva"
+
+#: ../bridge/includes/qode-custom-post-types.php:201
+#: ../bridge/includes/qode-custom-post-types.php:211
+msgid "Sliders"
+msgstr "Deslizadores"
+
+#: ../bridge/includes/qode-custom-post-types.php:202
+msgid "Slider"
+msgstr "Deslizador"
+
+#: ../bridge/includes/qode-custom-post-types.php:203
+msgid "Search Sliders"
+msgstr "Buscar Deslizadores"
+
+#: ../bridge/includes/qode-custom-post-types.php:204
+msgid "All Sliders"
+msgstr "Todos los Deslizadores"
